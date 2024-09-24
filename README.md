@@ -2,7 +2,7 @@
 
 With this app, you can easily manage your asset, including BTC, ETH, USDT and USD.
 
-Function
+# Function
 You can switch to different functions by clicking the function buttons.
 
 # Login
