@@ -1,4 +1,4 @@
-# Final Project - AssetTrack App
+# AssetTrack App
 
 With this app, you can easily manage your asset, including BTC, ETH, USDT and USD.
 
